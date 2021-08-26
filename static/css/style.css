@@ -372,4 +372,8 @@ img {
     .team img {
         width: 70%;
     }
+
+    .case-img {
+        justify-content: center;
+    }
 }
