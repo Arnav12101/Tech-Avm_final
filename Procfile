@@ -1,1 +1,1 @@
-web: gunicorn sdl_site.wsgi --log-file -
+web: gunicorn edgeledger.wsgi --log-file -
